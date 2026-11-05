@@ -1,2 +1,3 @@
-# 30---days---of---cloud
-My 30-day cloud &amp; DevOps learning journey. Daily notes and commands.
+# 30 Days of Cloud & DevOps
+Learning cloud computing and DevOps in public, one small step a day.
+Starting Nov 9, 2026. Posts on LinkedIn, notes here.
