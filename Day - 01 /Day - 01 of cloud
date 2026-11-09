@@ -1,0 +1,43 @@
+Day 1: Introduction to Cloud Computing
+
+What is Cloud Computing?
+
+Cloud computing is the delivery of computing resources such as servers, storage, databases and networking over the internet, allowing individuals and organizations to access these resources without having to own and maintain the physical infrastructure themselves.
+
+Understanding Cloud Computing
+
+Cloud computing can be compared to renting a kitchen instead of buying one.
+
+Rather than purchasing and maintaining all the equipment, you use an already-equipped kitchen and pay for what you need.
+
+Similarly, organizations can rent computing resources from cloud providers instead of purchasing and maintaining physical servers.
+
+Examples of Cloud Computing
+
+Google Drive is an example of cloud storage. It allows users to store and access files over the internet.
+
+AWS is another example of a cloud service provider.
+
+Traditional Computing vs Cloud Computing
+
+- Traditional computing: Organizations own and manage their computing resources.
+- Cloud computing: Organizations can access and rent computing resources from cloud providers.
+
+Resources Provided by Cloud Computing
+
+1. Storage
+2. Networking infrastructure
+3. Computing power
+4. Databases
+
+What I Learned
+
+I learned that cloud computing allows individuals and organizations to access computing resources over the internet without necessarily owning the physical infrastructure.
+
+I also learned how cloud storage works through examples such as Google Drive.
+
+Day 1 Reflection
+
+Cloud computing provides a flexible way to access computing resources without having to purchase and maintain all the necessary physical equipment.
+
+Next: Day 2 – Linux Setup.
